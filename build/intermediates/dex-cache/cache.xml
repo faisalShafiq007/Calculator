@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ragnar\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\evsandroid 31\Simple-Calculator-Android-Studio-Project-master\Simple-Calculator-Android-Studio-Project-master\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_843f8d603d3a6e24be56f18493bd0f52f0728843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ragnar\.android\build-cache\c489e5e1bc6627510864ee61c2ab82fa165287c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\evsandroid 31\Simple-Calculator-Android-Studio-Project-master\Simple-Calculator-Android-Studio-Project-master\app\build\intermediates\pre-dexed\debug\classes_f8fd56541457e4d2fd67c91808ebe85f2e88a0e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ragnar\.android\build-cache\68ba595da46aeb9aacfc05d7171b042c7f11ec0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\evsandroid 31\Simple-Calculator-Android-Studio-Project-master\Simple-Calculator-Android-Studio-Project-master\app\build\intermediates\pre-dexed\debug\classes_b338f9a46eb9059280a1c09badcd8a6ae34b702a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ragnar\.android\build-cache\c37249a24866ad1b1b2e046260b22ef287a9296e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\evsandroid 31\Simple-Calculator-Android-Studio-Project-master\Simple-Calculator-Android-Studio-Project-master\app\build\intermediates\pre-dexed\debug\classes_3444dc8fbda26079cebd0141ef9c4fe0917cbeeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ragnar\.android\build-cache\b868ceffbd2eb6f5645d811ba49ce474cac013fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\evsandroid 31\Simple-Calculator-Android-Studio-Project-master\Simple-Calculator-Android-Studio-Project-master\app\build\intermediates\pre-dexed\debug\classes_b1c3b5a442b5a05fe42ca0aca4ec8b3f4f1ce17e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ragnar\.android\build-cache\ffa5befbc9b0d232f44951172fb083bb8817357b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\evsandroid 31\Simple-Calculator-Android-Studio-Project-master\Simple-Calculator-Android-Studio-Project-master\app\build\intermediates\pre-dexed\debug\classes_420f211ec6cfa8360e77861c3d251d94d80ef011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ragnar\.android\build-cache\5d9525ff1c12861c015b6cf28095921068691b67\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\evsandroid 31\Simple-Calculator-Android-Studio-Project-master\Simple-Calculator-Android-Studio-Project-master\app\build\intermediates\pre-dexed\debug\classes_022efbeb20bde7acadbdaec1eb480421959f5980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ragnar\.android\build-cache\7cd5b0df3d3dd2194008b0fc4cd73b5baa18df81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\evsandroid 31\Simple-Calculator-Android-Studio-Project-master\Simple-Calculator-Android-Studio-Project-master\app\build\intermediates\pre-dexed\debug\classes_356edc8d8d80a6d240b37f4d307577a40d747494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ragnar\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\evsandroid 31\Simple-Calculator-Android-Studio-Project-master\Simple-Calculator-Android-Studio-Project-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_1a712c994ce26b65154f5ec5b7aacce5dc060d52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ragnar\.android\build-cache\5404a484a7513b31ecf9f85afc93f474f25f833d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\evsandroid 31\Simple-Calculator-Android-Studio-Project-master\Simple-Calculator-Android-Studio-Project-master\app\build\intermediates\pre-dexed\debug\classes_dc4ec06b4ce16c3a98581413e865ea88f3663446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ragnar\.android\build-cache\669916e8af3ef38f1d6f29029094e35c697acea1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\evsandroid 31\Simple-Calculator-Android-Studio-Project-master\Simple-Calculator-Android-Studio-Project-master\app\build\intermediates\pre-dexed\debug\classes_3589dcffa4fe5cd0fb225404eaf6f8af9a7e4a96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ragnar\.android\build-cache\d2788115e1db0ce831c52b184d3cbb39d2fa4f15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\evsandroid 31\Simple-Calculator-Android-Studio-Project-master\Simple-Calculator-Android-Studio-Project-master\app\build\intermediates\pre-dexed\debug\classes_38b4158f48d16f05e61920845cc63d6520a07c22.jar" />
+    </item>
+
+</items>
